@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # code-fest
 # Study-Buddy
 ## Link : https://q2chpaks9kddgup3wzedxh.streamlit.app/
@@ -43,3 +44,6 @@ https://github.com/user-attachments/assets/f2b2cc8b-27c4-4a21-92cf-0176b1b576e4
 
 
 
+=======
+# StudyPro
+>>>>>>> 3da0916aa6f18ebcd64a6c7bea894893400075dc
